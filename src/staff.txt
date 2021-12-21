@@ -1,0 +1,10 @@
+Nur Syazwani binti Abdullah	ABC123	F	32	46	157
+Nik Hazwani binti Nik Jamal	RGM567	F	45	60	162
+Muhammad Azwan bin Saiful	RHV494	M	34	56	176
+Aiman Ariff bin Aliff		RGH567	F	45	88	150
+Taqiyuddin bin Ali		THJ679	M	26	65	176
+Lau Ying Mei			HGB678	F	32	50	150
+Wang Qi Fei			FHN764	M	44	80	154
+Zhao Li An			WEG567	M	38	67	166
+Sharvin Arjun			TGJ568	M	55	66	170
+Simren Ranjit			THV56J	F	77	55	160			
